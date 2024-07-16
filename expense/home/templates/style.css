@@ -1,0 +1,22 @@
+
+.form-control {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  color: #333;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 20 20"><polygon points="0,0 10,10 20,0" style="fill:#333;"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+}
+
+.form-control option {
+  padding: 10px;
+  background-color: #fff;
+  color: #333;
+}
